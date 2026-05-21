@@ -1,0 +1,5 @@
+organization_type,strategy_score,strategy_level,team_score,team_level,culture_score,culture_level,largest_gap_area
+Established,4.13,medium,3.83,medium,3.67,medium,Culture
+Startup/Small,6.5,medium,6.5,medium,6.67,medium,Strategy
+Large Enterprise,4.25,medium,3.33,medium,4.17,medium,Team
+Mid-Market,5.88,medium,5.83,medium,5.67,medium,Culture
